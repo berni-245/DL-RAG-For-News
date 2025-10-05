@@ -12,3 +12,4 @@ __pycache__/
 .venv
 uv.lock
 .python-version
+*article.md
