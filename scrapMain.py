@@ -1,7 +1,7 @@
 import streamlit as st
 from src.scraping import InfobaeScraper
 
-def main():
+def scrapMain():
     st.title("📰 Scraping Infobae")
 
     if "news" not in st.session_state:
@@ -50,4 +50,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    scrapMain()
