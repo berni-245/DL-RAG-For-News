@@ -4,3 +4,5 @@ Para correr el streamlit
 ```bash
 uv run streamlit run main.py
 ```
+
+Se pueden probar apis de llms gratuitas en [Github Models](https://github.com/marketplace/models)
